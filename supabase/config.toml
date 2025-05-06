@@ -1,0 +1,8 @@
+
+project_id = "elbgjrnrqrefkqyraavw"
+
+[functions.power-management]
+verify_jwt = true
+
+[functions.power-utils]
+verify_jwt = true
